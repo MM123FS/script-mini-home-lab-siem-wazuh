@@ -1,0 +1,1 @@
+# script-mini-home-lab-siem-wazuh
